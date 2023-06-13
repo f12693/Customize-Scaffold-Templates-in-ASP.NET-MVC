@@ -1,7 +1,7 @@
 # Customize-Scaffold-Templates-in-ASP.NET-MVC
 (筆者當初是裝Visual Studio 17.5.3版本，目前還未測試其他版本是否可行)
 1. 如果當初在安裝Visual Studio時，沒有更改安裝路徑
-那麼就去以下路徑：
+那麼就去以下路徑：  
 C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding
 ![image](https://github.com/f12693/Customize-Scaffold-Templates-in-ASP.NET-MVC/assets/121540001/fdc90d64-8dc4-4cd4-bfc1-e43bdc8235db)
 2. 複製 Templates 資料夾到桌面(或者任何你想暫時存放的地方)  
