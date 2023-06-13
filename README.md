@@ -32,4 +32,8 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\M
 8. 完成！  
 此時再去xxxController.cs裡  
 在要新增檢視的action中  
-右鍵->新增檢視 -> MVC 5 檢視 -> 範本選擇"Create"就有囉~
+右鍵->新增檢視 -> MVC 5 檢視 -> 範本選擇"Create"就有囉~  
+  
+若還有要自定義其他模板
+可以在專案裡面的CodeTemplates資料夾  
+選擇想要更改的模板進行調整！
