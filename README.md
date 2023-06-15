@@ -19,7 +19,17 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\M
 185行 &lt;div class="col-md-offset-2 col-md-10">刪掉  
 186行 btn-default改成btn-primary  
 187行 &lt;/div>刪掉  
-整個刪完，根據需求，再做縮排  
+193行 "Back To List"改成"返回" 
+整個刪完，根據需求，再做縮排
+5. 20230615更新Edit.cs.t4  
+81行 form-horizontal改成row  
+105.185行 form-group改成mb-3  
+109.113行 control-label col-md-2改成form-label  
+117行 &lt;div class="col-md-10">刪掉  
+177行 &lt;/div>刪掉  
+186行 &lt;div class="col-md-offset-2 col-md-10">刪掉  
+188行 &lt;/div>刪掉  
+193行 "Back To List"改成"返回" 
 
 4. 開啟想要改變模板的專案->專案上右鍵->在檔案總管中開啟資料夾  
 ![1](https://github.com/f12693/Customize-Scaffold-Templates-in-ASP.NET-MVC/assets/121540001/a632aaa7-2bd1-457d-ae24-93c7c975549b)
