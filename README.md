@@ -9,6 +9,7 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\M
 ![image](https://github.com/f12693/Customize-Scaffold-Templates-in-ASP.NET-MVC/assets/121540001/ab84327f-dff0-413c-9b03-4e788bc8c7a1)
 4. 打開 CodeTemplates\MvcView 裡面的 Create.cs.t4 做一些修改  
 筆者是用了Visual Studio Code來開啟(可以顯示行數)  
+ 29行 &lt;h2><#= ViewName#>&lt;/h2>刪掉  
  81行 form-horizontal改成row  
 105行 form-group改成mb-3  
 109行 control-label col-md-2改成form-label  
@@ -22,6 +23,7 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\M
 193行 "Back To List"改成"返回" 
 整個刪完，根據需求，再做縮排
 5. 20230615更新Edit.cs.t4  
+29行 &lt;h2><#= ViewName#>&lt;/h2>刪掉  
 81行 form-horizontal改成row  
 105.185行 form-group改成mb-3  
 109.113行 control-label col-md-2改成form-label  
